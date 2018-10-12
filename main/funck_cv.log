@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  12 OCT 2018 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -535,15 +535,22 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 144.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 147.
  [2] [3]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
  (./funck_cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
-Package rerunfilecheck Info: File `funck_cv.out' has not changed.
-(rerunfilecheck)             Checksum: 58CA466B817C6EF4633202854AC7CF2E;972.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+
+
+Package rerunfilecheck Warning: File `funck_cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `funck_cv.out':
+(rerunfilecheck)             Before: 58CA466B817C6EF4633202854AC7CF2E;972
+(rerunfilecheck)             After:  06E81C47622D162F7C6A75F2F2151FEB;972.
  ) 
 Here is how much of TeX's memory you used:
  12162 strings out of 494931
@@ -552,7 +559,7 @@ Here is how much of TeX's memory you used:
  15272 multiletter control sequences out of 15000+600000
  52956 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 53i,13n,69p,774b,489s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,13n,67p,774b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/en
 c/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/s
 hare/texmf/fonts/type1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/publi
@@ -560,7 +567,7 @@ c/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public/
 lm/lmsso17.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on funck_cv.pdf (3 pages, 146515 bytes).
+Output written on funck_cv.pdf (3 pages, 146481 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  84 compressed objects within 1 object stream
